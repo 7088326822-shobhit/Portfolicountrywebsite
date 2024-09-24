@@ -1,0 +1,17 @@
+[
+    {
+        "icons" : "IoCallSharp",
+        "title" : "Call us",
+        "details" : "7088327822"
+    },
+    {
+        "icons" : "MdPlace",
+        "title" : "Find us",
+        "details" : "Badaun, UP"
+    }, 
+    {
+        "icons" : "TbMailPlus",
+        "title" : "Email us",
+        "details" : "shobhit563@gmail.com"
+    }
+]
